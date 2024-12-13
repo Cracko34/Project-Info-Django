@@ -4,7 +4,7 @@
 
 # Estructura del Proyecto
 
-``plaintext
+```plaintext
 proyecto/
 ├── app/                            # Carpeta de la aplicación Django
 │   ├── migrations/                 # Carpeta para las migraciones de la base de datos
