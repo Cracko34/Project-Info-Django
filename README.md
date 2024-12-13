@@ -5,7 +5,7 @@
 # Estructura del Proyecto
 
 ```plaintext
-proyecto/
+Project-Info-Django/
 ├── app/                            # Carpeta de la aplicación Django
 │   ├── migrations/                 # Carpeta para las migraciones de la base de datos
 │   ├── __init__.py                 # Indica que esta carpeta es un paquete Python
